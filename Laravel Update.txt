@@ -1,9 +1,0 @@
-As I already had laravel 8 installed on my pc, I just had to update it.
-1. First I had to update Php to the latest:
-	a) I downloaded the PHP latest package from PHP website.
-	b) After extracting the package I added the PHP folder in environment variable path.
-2. Then I had to update the composer using composer installer from the composer website.
-3. After updating composer I had to open a larval project and command "composer update" to update my laravel to the latest version.
-4. after finishing the update I created a new laravel project named taste using "laravel new test".
-5. When the project was created I had to change the direction to the new project location in the terminal.
-6. Then I typed the command "PHP artisan serve".
